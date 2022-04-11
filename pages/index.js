@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm a software engineer interested building delightful, futuristic technology.
+          👋 Hi, I'm a software engineer interested in building delightful user experiences and futuristic technology.
           You can contact me on{' '}
           <a href="https://discord.com/users/219219995471642635">Discord</a>,{' '}
           <a href="https://twitter.com/wiresdev">Twitter</a>, or{' '}
