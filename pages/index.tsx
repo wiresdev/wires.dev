@@ -24,18 +24,14 @@ export default function Home({
         <p>
           I'm a software engineer interested in building delightful user experiences and futuristic technology.
           You can contact me on{' '}
-          <a href="https://discord.com/users/219219995471642635">Discord</a>,{' '}
-          <a href="https://twitter.com/wiresdev">Twitter</a>, or{' '}
-          email contact@wires.dev
+          <a href="https://discord.com/users/219219995471642635">Discord</a> or{' '}
+          email <b>contact@wires.dev</b>, and find me on{' '}
+          <a href="https://twitter.com/wiresdev">Twitter</a> or{' '}
+          <a href="https://github.com/wiresdev">GitHub</a>.
           </p>
         <p>
           Currently @{' '}
           <a href="https://amazon.com">Amazon</a>.
-        </p>
-        <p>
-          Also currently working on{' '}
-          <a href="https://auth.finance"> Auth</a> and{' '}
-          <a href="https://loadintelligence.com"> Load Intelligence</a>.
         </p>
         <p>
           Previously: {' '}
